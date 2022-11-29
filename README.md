@@ -2,4 +2,4 @@
  curso de html5 e css3 gustavo guanabara
 
 
-estou aprendendo a criar sites e agora vou gerenciar o repositorio
+<a href="https://eduardomirandacintra.github.io/html-css/Exercicios/ex001/index.html" target="_blank" rel="next">Executar o exercicio ex001</a>
