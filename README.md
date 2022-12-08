@@ -32,7 +32,7 @@
 
 <a href="https://eduardomirandacintra.github.io/html-css/Exercicios/ex015/index.html" target="_blank" rel="next">Executar o exercicio ex015</a>
 
-<a href="https://eduardomirandacintra.github.io/html-css/Exercicios/ex016/index.html" target="_blank" rel="next">Executar o exercicio ex016</a>
+<a href="https://eduardomirandacintra.github.io/html-css/Exercicios/ex016/cor01.html" target="_blank" rel="next">Executar o exercicio ex016</a>
 
 <a href="https://eduardomirandacintra.github.io/html-css/Exercicios/ex017/index.html" target="_blank" rel="next">Executar o exercicio ex017</a>
 
