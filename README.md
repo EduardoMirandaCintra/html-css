@@ -34,14 +34,14 @@
 
 <a href="https://eduardomirandacintra.github.io/html-css/Exercicios/ex016/cor01.html" target="_blank" rel="next">Executar o exercicio ex016</a>
 
-<a href="https://eduardomirandacintra.github.io/html-css/Exercicios/ex017/index.html" target="_blank" rel="next">Executar o exercicio ex017</a>
+<a href="https://eduardomirandacintra.github.io/html-css/Exercicios/ex017/fonte01.html" target="_blank" rel="next">Executar o exercicio ex017</a>
 
-<a href="https://eduardomirandacintra.github.io/html-css/Exercicios/ex018/index.html" target="_blank" rel="next">Executar o exercicio ex018</a>
+<a href="https://eduardomirandacintra.github.io/html-css/Exercicios/ex018/fonte01.html" target="_blank" rel="next">Executar o exercicio ex018</a>
 
-<a href="https://eduardomirandacintra.github.io/html-css/Exercicios/ex019/index.html" target="_blank" rel="next">Executar o exercicio ex019</a>
+<a href="https://eduardomirandacintra.github.io/html-css/Exercicios/ex019/seletor01.html" target="_blank" rel="next">Executar o exercicio ex019</a>
 
-<a href="https://eduardomirandacintra.github.io/html-css/Exercicios/ex020/index.html" target="_blank" rel="next">Executar o exercicio ex020</a>
+<a href="https://eduardomirandacintra.github.io/html-css/Exercicios/ex020/hover.html" target="_blank" rel="next">Executar o exercicio ex020</a>
 
-<a href="https://eduardomirandacintra.github.io/html-css/Exercicios/ex021/index.html" target="_blank" rel="next">Executar o exercicio ex021</a>
+<a href="https://eduardomirandacintra.github.io/html-css/Exercicios/ex021/caixa01.html" target="_blank" rel="next">Executar o exercicio ex021</a>
 
-<a href="https://eduardomirandacintra.github.io/html-css/Exercicios/ex022/index.html" target="_blank" rel="next">Executar o exercicio ex022</a>
+<a href="https://eduardomirandacintra.github.io/html-css/Exercicios/ex022/fundo001.html" target="_blank" rel="next">Executar o exercicio ex022</a>
